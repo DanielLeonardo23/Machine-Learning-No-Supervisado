@@ -3,9 +3,8 @@ UNMSM - Facultad de Ingeniería de Sistemas e Informática
 Curso: Inteligencia Artificial
 Laboratorio 4 - Pregunta 3: Machine Learning No Supervisado
 
-Alumno: [Tu Nombre Aquí]
-Apellido Paterno: [Empieza con E]
-Fecha: [Coloca la fecha de entrega]
+Alumno: Escribas Alan Daniel Leonardo
+
 
 ------------------------------------------------------
 DESCRIPCIÓN DEL PROYECTO
